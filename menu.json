@@ -1,0 +1,7 @@
+[
+    {"id": 1, "nombre": "Empanada de Jamón y Queso", "precio": 250, "cantidad": 0},
+    {"id": 2, "nombre": "Empanada de Pollo", "precio": 250, "cantidad": 0},
+    {"id": 3, "nombre": "Empanada de Carne", "precio": 250, "cantidad": 0},
+    {"id": 4, "nombre": "Gaseosa 500ml", "precio": 300, "cantidad": 0},
+    {"id": 5, "nombre": "Lata de cerveza", "precio": 400, "cantidad": 0}
+]
